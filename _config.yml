@@ -28,9 +28,10 @@ twitter_username: etiennebatise
 github_username:  etiennebatise
 
 # Build settings
-theme: minima
+remote_theme: heiswayi/the-plain
 plugins:
   - jekyll-feed
+  - jekyll-remote
 
 # Exclude from processing.
 # The following items will not be processed, by default.

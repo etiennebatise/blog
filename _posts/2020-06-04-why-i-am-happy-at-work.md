@@ -3,7 +3,7 @@
 _TLDR: Because I own part of the company. Because we have a good impact on people’s life. Because we use logic and facts to make decisions (from top to bottom)._
 
 ## Introduction
-First things first, let me introduce myself briefly. My name is Etienne and I work in the tech industry in Paris. FIY, I am well aware of the benefits and priviledges that come with being a developer in 20202, so don’t come at me claiming I live in a bubble and whatever. Anyway, I am one of those "Millenials" everyone talks about recently. The lazy ones always complaining about the job and not respecting authority. Both of those statements were true about me until recently, and I’ll explain what changed.
+First things first, let me introduce myself briefly. My name is Etienne and I work in the tech industry in Paris. FIY, I am well aware of the benefits and priviledges that come with being a developer in 2020, so don’t come at me claiming I live in a bubble or whatever. Anyway, I am one of those "Millenials" everyone talks about recently. The lazy ones always complaining about the job and not respecting authority. Both of those statements were true about me until recently, and I’ll explain what changed.
 
 _Spoiler alert_: **I** didn’t change a bit.
 

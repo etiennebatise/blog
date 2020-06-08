@@ -3,7 +3,7 @@
 _TLDR: Because I own part of the company. Because we have a good impact on people’s life. Because we use logic and facts to make decisions (from top to bottom)._
 
 ## Introduction
-First things first, let me introduce myself briefly. My name is Etienne and I work in the tech industry in Paris. FIY, I am well aware of the benefits and priviledges that come with being a developer in 2020, so don’t come at me claiming I live in a bubble or whatever. Anyway, I am one of those "Millenials" everyone talks about recently. The lazy ones always complaining about the job and not respecting authority. Both of those statements were true about me until recently, and I’ll explain what changed.
+First things first, let me introduce myself briefly. My name is Etienne and I work in the tech industry in Paris. FIY, I am well aware of the benefits and privileges that come with being a developer in 2020, so don’t come at me claiming I live in a bubble or whatever. Anyway, I am one of those "Millennials" everyone talks about recently. The lazy ones always complaining about the job and not respecting authority. Both of those statements were true about me until recently, and I’ll explain what changed.
 
 _Spoiler alert_: **I** didn’t change a bit.
 
@@ -33,9 +33,9 @@ I joined a company where people use **facts** and **logic** to make decisions. W
 
 ## Conclusion
 
-People say « Millenials » can’ respect authority. Rather, we don’t accept illogical, groundless decisions based on hierarchy. **We value logic over politics**.
+People say « Millennials » can’ respect authority. Rather, we don’t accept illogical, groundless decisions based on hierarchy. **We value logic over politics**.
 
-People say « Millenials » always complain about the job. Rather, we want to **improve the world but we’re stuck**. Stuck rubbing the back of a very stubborn and entitled generation of do-nothing. Stuck, instead of tackling the problem we were told to solve when we grew up: climate change, inequalities, poverty, racism...
+People say « Millennials » always complain about the job. Rather, we want to **improve the world but we’re stuck**. Stuck rubbing the back of a very stubborn and entitled generation of do-nothing. Stuck, instead of tackling the problem we were told to solve when we grew up: climate change, inequalities, poverty, racism...
 
 With 1, **I am at peace** because I am building my future and I know my time is not rented but invested. With 2, **I have a sense of purpose** because we do something good and helpful. With 3, **I can be at my full potential**, take the lead or ask for help, surrounded by humble, loyal and logical people.
 

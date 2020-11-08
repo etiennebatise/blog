@@ -56,7 +56,7 @@ C’est pas parfait mais l'essentiel y est.
 
 ## Fzf
 
-Est-ce qu'on a encore besoin de présenter [fzf])(https://github.com/junegunn/fzf.vim) ? Le best fuzzy finder du quartier. Ici, je veux naviguer avec `ctrl-t` et `ctrl-s`.
+Est-ce qu'on a encore besoin de présenter [fzf](https://github.com/junegunn/fzf.vim) ? Le best fuzzy finder du quartier. Ici, je veux naviguer avec `ctrl-t` et `ctrl-s`.
 
 ```
 autocmd FileType fzf tnoremap <buffer> <C-t> <Down>
@@ -73,9 +73,5 @@ autocmd FileType fzf tnoremap <buffer> <C-s> <Up>
 Plug 'easymotion/vim-easymotion'
 let g:EasyMotion_keys = 'etisuranovpdlbjqxgyhf'
 let g:EasyMotion_do_mapping = 0
-
-```
-
-```
 
 ```
